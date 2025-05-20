@@ -1,3 +1,4 @@
 pre-commit
 adr-tools-python
 packaging
+ollama
